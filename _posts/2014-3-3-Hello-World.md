@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Selim'in günlüğünden!
-Emphasis, aka italics, with *asterisks* or _underscores_.
 ---
 
 Yatağımın karşısında bir pencere var. Odanın duvarları bomboş. Nasıl yaşadım on yıl bu evde? Bir gün duvara bir resim asmak gelmedi mi içimden? Ben ne yaptım? Kimse de uyarmadı beni. 
